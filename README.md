@@ -58,6 +58,10 @@ I also calculated clean-pocket EPA and disruption rate for context, but I did **
 
 Every quarterback in the sample became less efficient when the play was disrupted. The interesting part was how much the results changed from player to player.
 
+### What stood out to me
+
+Mahomes stood out to me because even though his clean EPA wasn't among the very best, his performance held up much better when plays were disrupted. Love was more efficient from a clean situation, but his EPA dropped much more when things went wrong. That makes me think Mahomes was better at creating value when the play broke down.
+
 ## What surprised me
 
 Dak Prescott finished first in this version of the model. Patrick Mahomes also moved much higher than he did in my first passing-efficiency project. That was interesting because it showed me how much a ranking can change when the question changes.
