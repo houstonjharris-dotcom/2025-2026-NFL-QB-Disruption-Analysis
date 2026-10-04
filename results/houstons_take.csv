@@ -1,0 +1,21 @@
+rank,player,houstons_take
+1,D.Prescott,Best result in the model. I would next check how much came from quick answers versus creating plays after the pocket changed.
+2,P.Mahomes,A big change from my first project. This model likes how he limited the damage on disrupted plays.
+3,M.Stafford,Strong disrupted-play EPA and sack avoidance. I would want to look at throw difficulty and receiver help next.
+4,B.Nix,Handled disruption well in this sample. The next question is how much Denver's structure helped him get the ball out.
+5,D.Maye,"Still grades well, but his sack rate on disrupted plays is a warning sign. His clean-pocket efficiency was excellent."
+6,B.Young,One of the more interesting results. His overall situation makes me want to separate quarterback performance from protection.
+7,J.Goff,The drop from clean to disrupted plays is noticeable. I would investigate how his results change when timing is taken away.
+8,J.Love,"Solid grade, but turnovers on disrupted plays hurt him. This is a good example of why one metric cannot tell the whole story."
+9,J.Herbert,Faced a lot of disruption and still landed near the middle. I would look at offensive line and game situation next.
+10,C.Stroud,"Turnover avoidance helped, but the EPA result was weaker. I would check pressure timing and down-and-distance."
+11,C.Williams,Middle of the group. The next step would be separating avoidable sacks from protection losses.
+12,T.Lawrence,Sacks were costly when disruption arrived. I would want film/context before putting that entirely on the quarterback.
+13,J.Brissett,A useful reminder that volume can make a backup or replacement starter part of the sample. Context matters.
+14,S.Darnold,"Positive-play rate was decent, but turnovers under disruption pulled the result down."
+15,J.Allen,"This passing/dropback view does not capture all of his rushing value, so I would not treat this as a total QB grade."
+16,A.Rodgers,The model shows a fairly large disruption penalty. I would compare release time and depth of target in a next version.
+17,J.Hurts,"Like Allen, a dropback-focused model can miss important rushing value. His sack rate under disruption was high here."
+18,C.Ward,"A young-QB result I would treat as a baseline, not a final judgment. He faced a lot of disruption and took many sacks."
+19,G.Smith,"The disrupted EPA was near the bottom of this sample. I would investigate whether sacks, situation, or protection drove it."
+20,B.Mayfield,Lowest grade in this version. His sack rate and positive-EPA rate on disrupted plays were the biggest reasons.
